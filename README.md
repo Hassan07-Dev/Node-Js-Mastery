@@ -147,3 +147,12 @@ Every module follows the same shape so you always know where to look:
 7. **Summary / Cheat Sheet**
 
 Good luck — by the end of Week 5 you'll be able to *build it, explain it, and defend it in an interview.* 💪
+
+
+---
+
+## 📚 More courses in this series
+
+- [PHP & Laravel Mastery](https://github.com/Hassan07-Dev/PHP-Laravel-Mastery)
+- [Python, Django & FastAPI Course](https://github.com/Hassan07-Dev/Python-Django-FastAPI-Course)
+- [React from Scratch to Expert](https://github.com/Hassan07-Dev/react-course)
